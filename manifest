@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Localytics module for Mobile app analytics
+author: Chris Magnussen
+license: See LICENSE
+copyright: Copyright (c) 2012 by Appgutta, DA
+
+
+# these should not be edited
+name: localytics
+moduleid: ti.localytics
+guid: ce4235ea-fd6f-4ebb-89b9-6f800ae6dc95
+platform: iphone
+minsdk: 1.7.6

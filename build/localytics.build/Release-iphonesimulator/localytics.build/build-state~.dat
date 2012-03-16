@@ -1,0 +1,214 @@
+Tlocalytics
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch.pth TiLocalytics_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch.pth TiLocalytics_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModule.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModule.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModuleAssets.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModuleAssets.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsDatabase.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsDatabase.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsSession.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsSession.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/UploaderThread.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/UploaderThread.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/libTiLocalytics.a" normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004E9618310000000000000110
+t1318459441
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libsqlite3.dylib
+c000000004E72EDD300000000000C09E0
+t1316154835
+s788960
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libz.dylib
+c000000004E72EDC60000000000013460
+t1316154822
+s78944
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModule.m
+c000000004F21462000000000000007AE
+t1327580704
+s1966
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModuleAssets.m
+c000000004F213F090000000000000108
+t1327578889
+s264
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsDatabase.m
+c000000004EB146AC00000000000065A4
+t1320240812
+s26020
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsSession.m
+c000000004EB14704000000000000AB0A
+t1320240900
+s43786
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/TiLocalytics_Prefix.pch
+c000000004F213F09000000000000003E
+t1327578889
+s62
+i<Foundation/Foundation.h>
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/UploaderThread.m
+c000000004EB146AC00000000000022C7
+t1320240812
+s8903
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/libTiLocalytics.a
+t2
+s0
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsDatabase.o
+t2
+s0
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsSession.o
+t2
+s0
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalytics.LinkFileList
+c000000004F2147820000000000000353
+t1327581058
+s851
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModule.o
+t2
+s0
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModuleAssets.o
+t2
+s0
+
+N/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/UploaderThread.o
+t2
+s0
+
+N/var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies49a2e7017fd1b441^d8290e027fd1b441^---0#1#0#--18"Check dependencies36"211C2C66-20C2-46FE-872B-CDAC94367336-
+
+CCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsDatabase.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsDatabase.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349273860.036854
+e349273860.515013
+r1
+xCompileC
+xbuild/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsDatabase.o
+x/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsDatabase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsDatabase.m168909047fd1b441^f5d783047fd1b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/agchris/Documents/Appgutta%20DA/Titanium/Modules/Localytics/LocalyticsDatabase.m0000000000000000^3368"CompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsDatabase.o LocalyticsDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-generated-files.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-own-target-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-all-target-headers.hmap" -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-project-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include/TiCore" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources/i386" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources" "-F/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -DTI_POST_1_2 -fno-objc-arc -include /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch -MMD -MT dependencies -MF "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsDatabase.d" -c "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsDatabase.m" -o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsDatabase.o"36"F9E7B5BE-6F99-4D8C-B129-CD74C2A915BF-
+
+CCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsSession.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsSession.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349273860.036861
+e349273861.774266
+r1
+xCompileC
+xbuild/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsSession.o
+x/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsSession.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsSession.m228a09047fd1b441^0936c6057fd1b441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/agchris/Documents/Appgutta%20DA/Titanium/Modules/Localytics/LocalyticsSession.m0000000000000000^3363"CompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsSession.o LocalyticsSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-generated-files.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-own-target-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-all-target-headers.hmap" -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-project-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include/TiCore" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources/i386" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources" "-F/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -DTI_POST_1_2 -fno-objc-arc -include /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch -MMD -MT dependencies -MF "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsSession.d" -c "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/LocalyticsSession.m" -o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/LocalyticsSession.o"36"1429E6AA-D085-4C12-B794-5F31F642E5C1-
+
+CCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModule.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModule.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349273860.036150
+e349273861.407480
+r1
+xCompileC
+xbuild/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModule.o
+x/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModule.m956409047fd1b441^485068057fd1b441^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/agchris/Documents/Appgutta%20DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModule.m0000000000000000^3370"CompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModule.o Classes/TiLocalyticsModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-generated-files.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-own-target-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-all-target-headers.hmap" -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-project-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include/TiCore" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources/i386" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources" "-F/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -DTI_POST_1_2 -include /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch -MMD -MT dependencies -MF "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModule.d" -c "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModule.m" -o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModule.o"36"A2F0EBC4-5FDC-4630-A35C-0747BAEABEAC-
+
+CCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModuleAssets.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModuleAssets.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349273860.036248
+e349273860.186789
+r1
+xCompileC
+xbuild/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModuleAssets.o
+x/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModuleAssets.m126709047fd1b441^24d12f047fd1b441^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/agchris/Documents/Appgutta%20DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModuleAssets.m0000000000000000^3400"CompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModuleAssets.o Classes/TiLocalyticsModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-generated-files.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-own-target-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-all-target-headers.hmap" -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-project-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include/TiCore" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources/i386" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources" "-F/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -DTI_POST_1_2 -include /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch -MMD -MT dependencies -MF "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModuleAssets.d" -c "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/Classes/TiLocalyticsModuleAssets.m" -o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalyticsModuleAssets.o"36"61D90718-35CF-468F-923E-7ADFE3300347-
+
+CCompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/UploaderThread.o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/UploaderThread.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349273860.036892
+e349273861.437189
+r1
+xCompileC
+xbuild/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/UploaderThread.o
+x/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/UploaderThread.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/UploaderThread.md28c09047fd1b441^7deb6f057fd1b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/agchris/Documents/Appgutta%20DA/Titanium/Modules/Localytics/UploaderThread.m0000000000000000^3348"CompileC build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/UploaderThread.o UploaderThread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-generated-files.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-own-target-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-all-target-headers.hmap" -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-project-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include/TiCore" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources/i386" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources" "-F/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -DTI_POST_1_2 -fno-objc-arc -include /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch -MMD -MT dependencies -MF "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/UploaderThread.d" -c "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/UploaderThread.m" -o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/UploaderThread.o"36"1D68FC35-5709-4359-A433-8228154C78A4-
+
+CLibtool "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/libTiLocalytics.a" normal i386
+s349273861.781552
+e349273861.820773
+r1
+xLibtool
+x/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/libTiLocalytics.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Libtool build/Release-iphonesimulator/libTiLocalytics.a normal i3869527c8057fd1b441^c51ed2057fd1b441^---0#0#0#--1182"Libtool build/Release-iphonesimulator/libTiLocalytics.a normal i386    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk "-L/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -filelist "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/Objects-normal/i386/TiLocalytics.LinkFileList" -ObjC /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libsqlite3.dylib /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libz.dylib -framework Foundation -o "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/libTiLocalytics.a"36"702CF37A-0AF3-4746-BF43-6F4414DB5CC5-
+
+CProcessPCH /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch.pth TiLocalytics_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349273858.063237
+e349273860.029216
+r1
+xProcessPCH
+x/var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch.pth
+xTiLocalytics_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile TiLocalytics_Prefix.pch6f6610027fd1b441^797807047fd1b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/agchris/Documents/Appgutta%20DA/Titanium/Modules/Localytics/TiLocalytics_Prefix.pch0000000000000000^3255"ProcessPCH /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch.pth TiLocalytics_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-generated-files.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-own-target-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-all-target-headers.hmap" -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-project-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include/TiCore" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources/i386" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources" "-F/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -DTI_POST_1_2 -c "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/TiLocalytics_Prefix.pch" -o /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-aaksbzfnevienxfkbdfhkotyyewo/TiLocalytics_Prefix.pch.d36"F5E6CF19-334F-4557-ADC5-D98F185BBC55-
+
+CProcessPCH /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch.pth TiLocalytics_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349273858.063241
+e349273860.029213
+r1
+xProcessPCH
+x/var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch.pth
+xTiLocalytics_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile TiLocalytics_Prefix.pchcc6010027fd1b441^168707047fd1b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/agchris/Documents/Appgutta%20DA/Titanium/Modules/Localytics/TiLocalytics_Prefix.pch0000000000000000^3269"ProcessPCH /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch.pth TiLocalytics_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-generated-files.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-own-target-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-all-target-headers.hmap" -iquote "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/TiLocalytics-project-headers.hmap" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include" "-I/Users/agchris/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/include/TiCore" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources/i386" "-I/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/localytics.build/Release-iphonesimulator/localytics.build/DerivedSources" "-F/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/build/Release-iphonesimulator" -DTI_POST_1_2 -fno-objc-arc -c "/Users/agchris/Documents/Appgutta DA/Titanium/Modules/Localytics/TiLocalytics_Prefix.pch" -o /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3f/55gt8d_93v144kbbhtjcg2940000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiLocalytics_Prefix-ekxqwpuugoqiiecxiuwtgzwdhbrf/TiLocalytics_Prefix.pch.d36"B72F36F6-5C5A-4142-A5D9-FABE51EFEFFA-
+
